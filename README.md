@@ -52,9 +52,9 @@ We are analyzing **Diwali Sales Data** to determine shopping trends and spending
    ```
 
 ## 📌 Results & Insights
-- Summary of major findings and trends.
-- Key insights extracted from the dataset.
-- Any surprising patterns discovered.
+- Women made more purchases and spent more than men.
+- Age group 26–35 is the most active buyer group.
+- Top states by total orders and sales: Uttar Pradesh, Maharashtra, and Karnataka.
 
 ## 📞 Contact
 For queries, reach out at [vishalvj221@gmail.com] or connect on GitHub: [Vishal-jain2003](https://github.com/Vishal-jain2003)
